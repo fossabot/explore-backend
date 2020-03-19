@@ -2,6 +2,7 @@
 # Explore
 to-do
 
+[![CircleCI](https://circleci.com/gh/rootstrap/rails_api_base.svg?style=svg)](https://circleci.com/gh/piloterr/api.explore.piloterr.com)
 [![Maintainability](https://api.codeclimate.com/v1/badges/3453298eb538597d1abd/maintainability)](https://codeclimate.com/github/piloterr/api.explore.piloterr.com/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/3453298eb538597d1abd/test_coverage)](https://codeclimate.com/github/piloterr/api.explore.piloterr.com/test_coverage)
 
