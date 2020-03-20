@@ -44,7 +44,7 @@ group :development do
   gem 'brakeman', '~> 4.7', '>= 4.7.1'
   gem 'letter_opener', '~> 1.7'
   gem 'listen', '~> 3.2'
-  gem 'rails_best_practices', '~> 1.19.4'
+  gem 'rails_best_practices', '~> 1.20.0'
   gem 'reek', '~> 5.5'
   gem 'rubocop-rails', '~> 2.3', '>= 2.3.2'
   gem 'spring', '~> 2.1'
