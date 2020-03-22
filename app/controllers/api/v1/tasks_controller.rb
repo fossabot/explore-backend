@@ -7,7 +7,6 @@ module Api
       end
 
       def create
-        Task.new(task_params)
         @task = Task.new(task_params)
         if @task.save
           render :create, status: :created
@@ -25,7 +24,7 @@ module Api
       private
 
       def task_params
-        params.require(:task).permit(:title, :due_at, :is_completed, user_id: [])
+        params.require(:task).permit(:title, :due_at, :is_completed, :user_id)
       end
     end
   end
