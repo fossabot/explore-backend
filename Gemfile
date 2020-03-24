@@ -39,7 +39,7 @@ group :development, :test do
 end
 
 group :development do
-  gem 'annotate', '~> 3.0', '>= 3.0.3'
+  gem 'annotate', '~> 3.1'
   gem 'better_errors', '~> 2.5', '>= 2.5.1'
   gem 'brakeman', '~> 4.7', '>= 4.7.1'
   gem 'letter_opener', '~> 1.7'
